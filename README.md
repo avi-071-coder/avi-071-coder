@@ -152,15 +152,6 @@ Chrome extension designed to improve reading productivity through:
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=avi-071-coder&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
 
 # Contribution Activity
 
