@@ -18,7 +18,6 @@
 
 Aspiring Software Engineer focused on building intelligent applications, scalable backend systems, and AI-powered products.
 
-- B.Tech Information Technology (CGPA: 8.28)
 - Backend Development Enthusiast
 - AI/ML Product Builder
 - Open Source Contributor
