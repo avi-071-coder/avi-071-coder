@@ -18,6 +18,7 @@
 
 Aspiring Software Engineer focused on building intelligent applications, scalable backend systems, and AI-powered products.
 
+- Focused on DSA
 - Backend Development Enthusiast
 - AI/ML Product Builder
 - Open Source Contributor
