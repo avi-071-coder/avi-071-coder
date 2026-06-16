@@ -7,8 +7,6 @@
 <br>
 
 ![](https://komarev.com/ghpvc/?username=avi-071-coder&style=for-the-badge&color=7F5AF0)
-![](https://img.shields.io/github/followers/avi-071-coder?style=for-the-badge&color=6A0DAD)
-![](https://img.shields.io/github/stars/avi-071-coder?affiliations=OWNER&style=for-the-badge&color=5B21B6)
 
 </div>
 
@@ -19,7 +17,9 @@
 Aspiring Software Engineer focused on building intelligent applications, scalable backend systems, and AI-powered products.
 
 - Focused on DSA
+
 - Backend Development Enthusiast
+
 - Open Source Contributor
 
 Building softwares that combines automation, machine learning, and modern web technologies to solve real-world problems.
@@ -49,9 +49,7 @@ Building softwares that combines automation, machine learning, and modern web te
 # Contribution Activity
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=avi-071-coder&theme=tokyo-night&hide_border=true"/>
-
 </div>
 
 ---
@@ -59,9 +57,15 @@ Building softwares that combines automation, machine learning, and modern web te
 # Open To
 
 - Learning new technologies, frameworks, and software engineering practices.
+
 - Software Engineering internships where I can contribute, learn, and grow.
+
 - Hackathons that foster innovation, collaboration, and problem-solving.
+
 - Open source contributions and collaborative development opportunities.
+
 - Connecting with developers, builders, and technology enthusiasts.
 
+
 ---
+
