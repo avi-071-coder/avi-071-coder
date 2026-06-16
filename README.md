@@ -20,7 +20,6 @@ Aspiring Software Engineer focused on building intelligent applications, scalabl
 
 - Focused on DSA
 - Backend Development Enthusiast
-- AI/ML Product Builder
 - Open Source Contributor
 
 Building softwares that combines automation, machine learning, and modern web technologies to solve real-world problems.
