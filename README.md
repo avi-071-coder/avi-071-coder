@@ -4,10 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=900&lines=Building+Intelligent+Products;AI+%2B+Software+Engineering+Entusiast;Backend+Systems+%26+Full+Stack+Development;Always+Learning+Always+Building" />
 
-<br>
-
-![](https://komarev.com/ghpvc/?username=avi-071-coder&style=for-the-badge&color=7F5AF0)
-
 </div>
 
 ---
