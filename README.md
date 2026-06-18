@@ -28,8 +28,6 @@ Building softwares that combines automation, machine learning, and modern web te
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avi-071-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=avi-071-coder&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 <br>
