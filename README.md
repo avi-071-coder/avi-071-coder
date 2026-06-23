@@ -12,11 +12,9 @@
 
 Aspiring Software Engineer focused on building intelligent applications, scalable backend systems, and AI-powered products.
 
-- Focused on DSA
-
-- Backend Development Enthusiast
-
-- Open Source Contributor
+* **Focused on DSA**
+* **Backend Development Enthusiast**
+* **Open Source Contributor**
 
 Building softwares that combines automation, machine learning, and modern web technologies to solve real-world problems.
 
@@ -25,17 +23,16 @@ Building softwares that combines automation, machine learning, and modern web te
 # GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=avi-071-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avi-071-coder&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avi-071-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
+      </td>
+      <td width="50%" align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avi-071-coder&layout=compact&theme=tokyonight&hide_border=true"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -43,23 +40,18 @@ Building softwares that combines automation, machine learning, and modern web te
 # Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=avi-071-coder&theme=tokyo-night&hide_border=true"/>
+  <br />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=avi-071-coder&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
 
 # Open To
 
-- Learning new technologies, frameworks, and software engineering practices.
-
-- Software Engineering internships where I can contribute, learn, and grow.
-
-- Hackathons that foster innovation, collaboration, and problem-solving.
-
-- Open source contributions and collaborative development opportunities.
-
-- Connecting with developers, builders, and technology enthusiasts.
-
+* Learning new technologies, frameworks, and software engineering practices.
+* Software Engineering internships where I can contribute, learn, and grow.
+* Hackathons that foster innovation, collaboration, and problem-solving.
+* Open source contributions and collaborative development opportunities.
+* Connecting with developers, builders, and technology enthusiasts.
 
 ---
-
