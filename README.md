@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4B0082,50:6A0DAD,100:7F5AF0&text=Abhishek%20Jha&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=From%20imagination%20to%20implementation.&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=220&color=0:120e2e,50:32136d,100:7F5AF0&text=Abhishek%20Jha&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=From%20imagination%20to%20implementation.&descAlignY=58&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=900&lines=Building+Intelligent+Products;AI+%2B+Software+Engineering+Entusiast;Backend+Systems+%26+Full+Stack+Development;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=a78bfa&center=true&vCenter=true&width=900&lines=Building+Intelligent+Products;AI+%2B+Software+Engineering+Entusiast;Backend+Systems+%26+Full+Stack+Development;Always+Learning+Always+Building" />
 
 </div>
 
@@ -26,10 +26,10 @@ Building softwares that combines automation, machine learning, and modern web te
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td width="50%" align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avi-071-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
+        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=avi-071-coder&show_icons=true&theme=dark&bg_color=12111a&title_color=7f5af0&icon_color=a78bfa&text_color=94a3b8&hide_border=true"/>
       </td>
       <td width="50%" align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avi-071-coder&layout=compact&theme=tokyonight&hide_border=true"/>
+        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avi-071-coder&layout=compact&theme=dark&bg_color=12111a&title_color=7f5af0&text_color=94a3b8&hide_border=true"/>
       </td>
     </tr>
   </table>
@@ -41,7 +41,7 @@ Building softwares that combines automation, machine learning, and modern web te
 
 <div align="center">
   <br />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=avi-071-coder&theme=tokyo-night&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=avi-071-coder&theme=react-dark&bg_color=12111a&color=7f5af0&line=a78bfa&point=ffffff&area=true&hide_border=true"/>
 </div>
 
 ---
