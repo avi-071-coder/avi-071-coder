@@ -26,10 +26,10 @@ Building softwares that combines automation, machine learning, and modern web te
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td width="50%" align="center">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=avi-071-coder&show_icons=true&theme=dark&bg_color=12111a&title_color=7f5af0&icon_color=a78bfa&text_color=94a3b8&hide_border=true"/>
+        <img height="185em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=avi-071-coder&show_icons=true&theme=dark&bg_color=12111a&title_color=7f5af0&icon_color=a78bfa&text_color=94a3b8&hide_border=true"/>
       </td>
       <td width="50%" align="center">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avi-071-coder&layout=compact&theme=dark&bg_color=12111a&title_color=7f5af0&text_color=94a3b8&hide_border=true"/>
+        <img height="185em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=avi-071-coder&layout=compact&theme=dark&bg_color=12111a&title_color=7f5af0&text_color=94a3b8&hide_border=true"/>
       </td>
     </tr>
   </table>
