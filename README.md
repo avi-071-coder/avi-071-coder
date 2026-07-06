@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=220&color=0:120e2e,50:32136d,100:7F5AF0&text=Abhishek%20Jha&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=From%20imagination%20to%20implementation.&descAlignY=58&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=a78bfa&center=true&vCenter=true&width=900&lines=Building+Intelligent+Products;AI+%2B+Software+Engineering+Entusiast;Backend+Systems+%26+Full+Stack+Development;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=a78bfa&center=true&vCenter=true&width=900&lines=Building+Intelligent+Products;AI+%2B+Software+Engineering+Entusiast;Frontend+Systems+%26+Full+Stack+Development;Always+Learning+Always+Building" />
 
 </div>
 
@@ -13,10 +13,10 @@
 Aspiring Software Engineer focused on building intelligent applications, scalable backend systems, and AI-powered products.
 
 * **Focused on DSA**
-* **Backend Development Enthusiast**
+* **Frontend Development Enthusiast**
 * **Open Source Contributor**
 
-Building softwares that combines automation, machine learning, and modern web technologies to solve real-world problems.
+Building softwares that combines automation and modern web technologies to solve real-world problems.
 
 ---
 
