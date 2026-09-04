@@ -41,13 +41,11 @@ Building softwares that combines automation and modern web technologies to solve
 
 <div align="center">
 
-<a href="https://github.com/avi-071-coder">
-  <img
-    src="https://ghchart.rshah.org/7f5af0/avi-071-coder"
-    alt="Abhishek Jha's GitHub Contribution Activity"
-    width="100%"
-  />
-</a>
+<img
+  src="./profile-3d-contrib/profile-purple.svg"
+  width="100%"
+  alt="GitHub Contribution Activity"
+/>
 
 </div>
 
