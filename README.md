@@ -42,9 +42,9 @@ Building softwares that combines automation and modern web technologies to solve
 <div align="center">
 
 <img
-  src="./profile-3d-contrib/profile-purple.svg"
+  src="https://streak-stats.demolab.com/?user=avi-071-coder&theme=dark&background=12111a&border=12111a&ring=7f5af0&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8"
   width="100%"
-  alt="GitHub Contribution Activity"
+  alt="GitHub Contribution Streak"
 />
 
 </div>
